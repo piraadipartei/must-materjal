@@ -65,22 +65,21 @@ EI:
 
 2) Üldkoosoleku protokolli saatmine liikmetele:
 
-    kas saata lisainformatsiooni? sotsiaalvõrgud, muud olulised kommunikatsioonilingid
+- kas saata lisainformatsiooni? sotsiaalvõrgud, muud olulised kommunikatsioonilingid
 
 3) Sisemised kommunikatsioonikanalid:
 
-    juhatuse meil põhimõtteliselt töötab
+- juhatuse meil põhimõtteliselt töötab
 
 4) Järgmiste koosolekute ja koosolemiste korraldamine ja järgmine üldkoosolek:
 
-    lisaüldkoosolek - pigem internetis; põhikirjamuudatuste küsimused
-    https://pad.parley.be/p/yldkoosolek-p3evakord
-    leida vastutajad, kes torgivad inimesi ja vastutavad päevakorra täitmise eest; organisatoorsed küsimused - liikmete teavitamine, päevakorra loomine, tehniline keskkond jm
-    enne seda: leida põhilised teemad, mille osas on vaja arvamus kujundada; kes saaksid seda vedada? proovime selle tehtud saada kahe kuu jooksul ning kutsuda kokku üldkoosolek jaanuari teises pooles
+- lisaüldkoosolek - pigem internetis; põhikirjamuudatuste küsimused, vt https://pad.parley.be/p/yldkoosolek-p3evakord
+- leida vastutajad, kes torgivad inimesi ja vastutavad päevakorra täitmise eest; organisatoorsed küsimused - liikmete teavitamine, päevakorra loomine, tehniline keskkond jm
+- enne seda: leida põhilised teemad, mille osas on vaja arvamus kujundada; kes saaksid seda vedada? proovime selle tehtud saada kahe kuu jooksul ning kutsuda kokku üldkoosolek jaanuari teises pooles
 
 5) Kodulehe uuendamine:
 
-    - lisada juhatus, pangaarve, liikmete nimekiri
+- lisada juhatus, pangaarve, liikmete nimekiri
 
 
 ### Tulevikus arutleda
