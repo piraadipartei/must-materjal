@@ -23,7 +23,6 @@ Külalised: 2 külalist
 Pad: https://pad.parley.be/p/pp-juhatuse-koosolek-01.12.2019
 Jitsi: https://meet.jit.si/ppjk
 
-
 ## Päevakord
 
 - koosoleku juhataja ja protokollija määramine, päevakorra kinnitamine
@@ -41,28 +40,28 @@ Jitsi: https://meet.jit.si/ppjk
 
 ### Uuendatud päevakord
 
-    1) liikmete nimekirja uuendamine, vastuvõtmise tingimused, liikmeavaldus
-    2) üldkoosoleku protokolli saatmine liikmetele
-    3) sisemised kommunikatsioonikanalid
-    4) järgmiste koosolekute ja koosolemiste korraldamine ja järgmine üldkoosolek
-    5) kodulehe uuendamine
-    6) ülesannete defineerimine ja jagamine
-    7) küsimused osalejatelt ja avatud arutelu
+1) liikmete nimekirja uuendamine, vastuvõtmise tingimused, liikmeavaldus
+2) üldkoosoleku protokolli saatmine liikmetele
+3) sisemised kommunikatsioonikanalid
+4) järgmiste koosolekute ja koosolemiste korraldamine ja järgmine üldkoosolek
+5) kodulehe uuendamine
+6) ülesannete defineerimine ja jagamine
+7) küsimused osalejatelt ja avatud arutelu
 
 ### Päevakorra kinnitamine
 
-    JAH: Margus, Gamithra, Märt
-    EI:
+JAH: Margus, Gamithra, Märt
+EI:
     
 ### Koosoleku käik
 
 1) Liikmete nimekirja uuendamine, vastuvõtmise tingimused, liikmeavaldus:
 
-    - kas juhatus peaks saama otsustada liikmete väljaviskamise üle? läbi missuguse meediumi peaksid liikmed saama selle üle otsustada?
-    - kas vaated on liikmeks vastuvõtmise puhul olulised?
-    - Piraadipartei võtab vastu kõik avaldused
-    - kui Piraadipartei liige mõistetakse isikuvastase kuriteo sooritamises süüdi, otsustab juhatus liikme väljaviskamise üle; muul juhul delegeeritakse otsus väljaviskamise kohta liikmetele
-    - tervituspakett: mida öelda uutele liikmetele?
+- kas juhatus peaks saama otsustada liikmete väljaviskamise üle? läbi missuguse meediumi peaksid liikmed saama selle üle otsustada?
+- kas vaated on liikmeks vastuvõtmise puhul olulised?
+- Piraadipartei võtab vastu kõik avaldused
+- kui Piraadipartei liige mõistetakse isikuvastase kuriteo sooritamises süüdi, otsustab juhatus liikme väljaviskamise üle; muul juhul delegeeritakse otsus väljaviskamise kohta liikmetele
+- tervituspakett: mida öelda uutele liikmetele?
 
 2) Üldkoosoleku protokolli saatmine liikmetele:
 
@@ -86,19 +85,19 @@ Jitsi: https://meet.jit.si/ppjk
 
 ### Tulevikus arutleda
 
-    - liikmete väljaviskamine
-    - mitmeparteilisus
-    - kodulehe uuendamine
-    - FB grupp
+- liikmete väljaviskamine
+- mitmeparteilisus
+- kodulehe uuendamine
+- FB grupp
 
 ## Ülesanded
 
-    - geneerilise tervituspaketi koostamine
-    - liikmete nimekiri serverisse (Märt)
-    - liikme vastu võtmine (Märt)
-    - juhatuse käsiraamat - nt liikmete vastuvõtmise protseduur, uuendused
-    - liikmete käsiraamat (Märt otsib vana versiooni) - põhilingid, põhiline organisatsiooni struktuur, grupid
-    - protokolli saatmine (Märt) - arutame edasi
-    - teha list inimestest ja teemadest, mille kohta on vaja arvamus kujundada - teha fb üritus kolmapäevaks ja pühapäevaks inimesed kokku kutsuda
-    - kodulehe vajalikud uuendused (Märt)
-    - uurida teiste parteide vastuvõtutingimusi (Gamithra)
+- geneerilise tervituspaketi koostamine
+- liikmete nimekiri serverisse (Märt)
+- liikme vastu võtmine (Märt)
+- juhatuse käsiraamat - nt liikmete vastuvõtmise protseduur, uuendused
+- liikmete käsiraamat (Märt otsib vana versiooni) - põhilingid, põhiline organisatsiooni struktuur, grupid
+- protokolli saatmine (Märt) - arutame edasi
+- teha list inimestest ja teemadest, mille kohta on vaja arvamus kujundada - teha fb üritus kolmapäevaks ja pühapäevaks inimesed kokku kutsuda
+- kodulehe vajalikud uuendused (Märt)
+- uurida teiste parteide vastuvõtutingimusi (Gamithra)
