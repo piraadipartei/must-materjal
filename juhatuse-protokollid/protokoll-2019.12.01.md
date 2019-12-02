@@ -6,10 +6,10 @@ Juhatuse liikmed:
 - Margus Toots
 - Gamithra Marga
     
-Koosolek algas: 18:04
-Koosolek lõppes: 21:10
-Koosoleku juhataja: Märt Põder
-Koosoleku protokollija: Gamithra Marga
+Koosolek algas: 18:04  
+Koosolek lõppes: 21:10  
+Koosoleku juhataja: Märt Põder  
+Koosoleku protokollija: Gamithra Marga  
     
 Osalejad:
 
@@ -17,10 +17,10 @@ Osalejad:
 - Margus Toots
 - Gamithra Marga
     
-Puudu: -
+Puudu: -  
 Külalised: 2 külalist
 
-Pad: https://pad.parley.be/p/pp-juhatuse-koosolek-01.12.2019
+Pad: https://pad.parley.be/p/pp-juhatuse-koosolek-01.12.2019  
 Jitsi: https://meet.jit.si/ppjk
 
 ## Päevakord
@@ -50,7 +50,7 @@ Jitsi: https://meet.jit.si/ppjk
 
 ### Päevakorra kinnitamine
 
-JAH: Margus, Gamithra, Märt
+JAH: Margus, Gamithra, Märt  
 EI:
     
 ### Koosoleku käik
