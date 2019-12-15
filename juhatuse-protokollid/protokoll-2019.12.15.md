@@ -40,7 +40,7 @@ Pad: https://pad.parley.be/p/pp-juhatuse-koosolek-15.12.2019
 * Märt korraldab midagi Chaos Communication Congressil
 
 
-Ülesanded:
+## Ülesanded
 * Märt paneb koosoleku ja üldkoosoleku protokollid Githubi.
 * Tom Scott meediasse
 * Kuidas liikmetega räägime -- järgmisel nädalal arutame läbi ja paneme kirja, eesmärk on nimekirja aktiveerimine, avalduseta liikmete värbamine ja järgmise aasta üritustele sisu/vedajate leidmine
