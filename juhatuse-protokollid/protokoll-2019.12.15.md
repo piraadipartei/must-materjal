@@ -41,6 +41,6 @@ Pad: https://pad.parley.be/p/pp-juhatuse-koosolek-15.12.2019
 
 
 Ülesanded:
-* Märt paneb üldkoosoleku ja üldkoosoleku protokollid Githubi.
+* Märt paneb koosoleku ja üldkoosoleku protokollid Githubi.
 * Tom Scott meediasse
 * Kuidas liikmetega räägime -- järgmisel nädalal arutame läbi ja paneme kirja, eesmärk on nimekirja aktiveerimine, avalduseta liikmete värbamine ja järgmise aasta üritustele sisu/vedajate leidmine
