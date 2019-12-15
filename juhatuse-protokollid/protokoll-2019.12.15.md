@@ -1,4 +1,4 @@
-Eesti Piraadipartei juhatuse koosolek 
+# Eesti Piraadipartei juhatuse koosolek 
 08.12.2019 18:00 UTC+2
  
 Juhatuse liikmed:
