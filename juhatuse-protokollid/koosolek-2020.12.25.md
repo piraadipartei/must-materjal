@@ -59,7 +59,8 @@ c) Plaanid KOV valimistel
 
 Järgmine koosolek 16. jaanuaril kl 18.
 
-Korraldada Islandi piraatidest mõne parlamendiliikmega online-arutelu. Võiks teha sarjana, st teiste edukate piraadiparteide inimestega ka.
+Korraldada Islandi piraatidest mõne parlamendiliikmega online-arutelu. Võiks teha sarjana, st teiste edukate piraadiparteide inimestega ka.  
+Märt: Kahjuks tühja kasseti tasu aruteluga me ei haakinud, kuigi PP põhiteema, aga elektroonilise side seadus ja metaandmed tulevad eeldatavasi jaanuaris parlamenti, sellega seoses on aktiivsust oodata, vähemalt mõned artiklid meedias, aga ISOC samuti tegeleb.
 
 ## Ülesanded:
 
